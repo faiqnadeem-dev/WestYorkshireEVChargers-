@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WestYorkshireEVChargers</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="edit_chargepoint">Edit chargepoint</string>
+    <string name="delete_chargepoint">Delete chargepoint</string>
+    <string name="delete_confirmation">Delete Chargepoint</string>
+    <string name="delete_message">Are you sure you want to delete this chargepoint?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_success">Chargepoint deleted successfully</string>
+    <string name="delete_failed">Failed to delete chargepoint</string>
+    <string name="save">Save</string>
+    <string name="update_success">Chargepoint updated successfully</string>
+    <string name="update_failed">Failed to update chargepoint</string>
+    <string name="add_chargepoint">Add Chargepoint</string>
+    <string name="add_success">Chargepoint added successfully</string>
+    <string name="add_failed">Failed to add chargepoint</string>
+    <string name="chargepoint_name">Name</string>
+    <string name="chargepoint_status">Status</string>
+    <string name="chargepoint_type">Charger Type</string>
+    <string name="admin_panel">Admin Panel</string>
+        <string name="import_success">Data imported successfully</string>
+        <string name="import_failed">Failed to import data</string>
+        <string name="admin_access_denied">Admin access denied</string>
+        <string name="all_fields_required">All fields are required</string>
+    <string name="edit_failed">Failed to edit chargepoint</string>
+
+</resources>

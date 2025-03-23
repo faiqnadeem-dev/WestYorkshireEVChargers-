@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467293500857",
+    "project_id": "westyorkshireevchargers-bed58",
+    "storage_bucket": "westyorkshireevchargers-bed58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467293500857:android:03c6cc873ffd4d2538f268",
+        "android_client_info": {
+          "package_name": "com.evchargers.westyorkshire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghEbpuC8hG8MPod85g2q3bVqkgNYcxN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

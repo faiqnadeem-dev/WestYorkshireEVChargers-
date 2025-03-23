@@ -1,0 +1,3 @@
+Name,County,ChargerType,Latitude,Longitude,Status
+Test Station 1,West Yorkshire,Fast Charger,53.7967,-1.5483,Available
+Test Station 2,West Yorkshire,Rapid Charger,53.8008,-1.5491,In Use

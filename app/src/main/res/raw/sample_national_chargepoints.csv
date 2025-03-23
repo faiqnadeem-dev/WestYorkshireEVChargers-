@@ -1,0 +1,30 @@
+referenceID,latitude,longitude,town,county,postcode,chargeDeviceStatus,connectorID,connectorType
+PP-12508,53.716884,-1.857695,Halifax,West Yorkshire,HX1 2ND,In service,6591,3-pin Type G (BS1363)
+PP-12458,53.726284,-1.856518,Halifax,West Yorkshire,HX1 1SB,In service,122626,3-pin Type G (BS1363)
+PP-5112237,53.654648,-1.516288,Wakefield,West Yorkshire,WF4 3BB,In service,122708,Type 2 Mennekes (IEC62196)
+PP-5112273,53.792986,-1.75874,Bradford,West Yorkshire,BD1 2EP,Out service,122712,Type 2 Mennekes (IEC62196)
+PP-5112232,53.806336,-1.530755,Leeds,West Yorkshire,LS8 5QP,In service,122814,Type 2 Mennekes (IEC62196)
+CPS001,53.770554,-1.751224,Bradford,West Yorkshire,BD5 8HW,In service,126044,JEVS G105 (CHAdeMO) DC
+DBTDQ_ZCF229,53.712614,-1.746287,Brighouse,West Yorkshire,HD6 4JX,In service,126552,JEVS G105 (CHAdeMO) DC
+DBTDQ_ZCF225,53.713912,-1.743583,Brighouse,West Yorkshire,HD6 4JX,In service,126555,JEVS G105 (CHAdeMO) DC
+DBTDQ_ZCF108,53.745232,-1.64801,Batley,West Yorkshire,WF17 9AE,In service,127162,3-pin Type G (BS1363)
+DBTDQ_ZCF196,53.745232,-1.64801,Batley,West Yorkshire,WF17 9AE,In service,127164,JEVS G105 (CHAdeMO) DC
+DBTDQ_ZCF083,53.947551,-1.369461,Wetherby,West Yorkshire,LS22 5GT,Out service,127343,JEVS G105 (CHAdeMO) DC
+DBTDQ_ZCF174,53.947551,-1.369461,Wetherby,West Yorkshire,LS22 5GT,In service,127344,JEVS G105 (CHAdeMO) DC
+DBTDQ_ZCF058,53.947551,-1.369461,Wetherby,West Yorkshire,LS22 5GT,In service,128749,Type 2 Mennekes (IEC62196)
+DBTDQ_ZCF022,53.698215,-1.266915,Knottingley,West Yorkshire,WF11 0AF,In service,128880,JEVS G105 (CHAdeMO) DC
+GP10512,53.999899,-1.540696,Harrogate,West Yorkshire,HG1 2AB,Out service,129608,JEVS G105 (CHAdeMO) DC
+GP10230,53.787151,-1.534125,Leeds,West Yorkshire,LS10 1JU,In service,129703,Type 2 Mennekes (IEC62196)
+GP10216,53.807524,-1.660724,Pudsey,West Yorkshire,LS28 6HQ,In service,129706,JEVS G105 (CHAdeMO) DC
+INS120388,53.808696,-1.589743,Leeds,West Yorkshire,LS4 2QD,In service,129835,JEVS G105 (CHAdeMO) DC
+GP10573,53.772142,-1.730694,Bradford,West Yorkshire,BD4 7SJ,Out service,129881,Type 2 Mennekes (IEC62196)
+INS66246,53.808438,-1.467562,Leeds,West Yorkshire,LS14 6AX,In service,130190,JEVS G105 (CHAdeMO) DC
+INS119750,53.808449,-1.467581,Leeds,West Yorkshire,LS14 6AX,In service,130192,3-pin Type G (BS1363)
+Bristol Street,53.805353,-1.53277,Leeds,West Yorkshire,LS7 1DH,In service,130251,JEVS G105 (CHAdeMO) DC
+Savile Road,53.727469,-1.358576,Wakefield,West Yorkshire,WF10 1PD,In service,130244,JEVS G105 (CHAdeMO) DC
+Victoria Services,53.742121,-1.620762,Leeds,West Yorkshire,LS27 0LF,In service,130255,JEVS G105 (CHAdeMO) DC
+Crown Service Stat,53.701119,-1.771427,Huddersfield,West Yorkshire,HD6 1QH,In service,130259,Type 2 Mennekes (IEC62196)
+Lockwood Road Rapi,53.634128,-1.79399,Huddersfield,West Yorkshire,HD1 3TG,Out service,130263,JEVS G105 (CHAdeMO) DC
+Quarry Court Rapid,53.739361,-1.602175,Leeds,West Yorkshire,LS27 0BY,In service,130267,JEVS G105 (CHAdeMO) DC
+GP10700,53.838497,-1.641023,Leeds,West Yorkshire,LS18 5BP,In service,130300,3-pin Type G (BS1363)
+INS119708,53.805739,-1.505007,Leeds,West Yorkshire,LS9 6LQ,In service,130373,JEVS G105 (CHAdeMO) DC
